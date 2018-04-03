@@ -3,3 +3,8 @@
 *.ipynb_checkpoints
 data/ProfileSizes.txt
 data/Scores_Sizes.txt
+*.txt
+data/data.zip
+data/data/README.md
+*.txt
+*.txt
